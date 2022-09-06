@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuntaewoong&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# Interset
+# Interest
 - Graphics
 - Modern Graphics API(DirectX12)
 - Game Engine(UE, Unity)
