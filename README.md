@@ -1,16 +1,13 @@
-### Hi there 👋
+# Game Programmer
+- Student of Kyung Hee University(2018.03 ~ present)
+- Majoring Computer Engineering
 
-<!--
-**yuntaewoong/yuntaewoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Interset
+- Graphics
+- Modern Graphics API(DirectX12)
+- Game Engine(UE, Unity)
+- GPGPU(CUDA, Compute Shader)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Site
+- [YouTube](https://www.youtube.com/channel/UC4ThKyd6K1Ha7NPBKARFqBA)
+- [Tech Blog](https://velog.io/@15ywt)
