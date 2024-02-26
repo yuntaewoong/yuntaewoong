@@ -1,6 +1,5 @@
 # Game Programmer
-- Student of Kyung Hee University(2018.03 ~ present)
-- Majoring Computer Engineering
+- Student of Kyung Hee University(2018.03 ~ 2024.02)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuntaewoong&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
